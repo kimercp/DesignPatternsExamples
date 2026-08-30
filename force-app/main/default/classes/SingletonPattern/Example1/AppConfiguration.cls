@@ -1,3 +1,6 @@
+/**
+ * Singleton AppConfiguration. Loads the AppConfiguration__mdt record once per transaction via getInstance()
+ */
 public with sharing class AppConfiguration {
     // private static AppConfiguration instance - one per transaction
     private static AppConfiguration instance;
