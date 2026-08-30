@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Stores feature flags read by FeatureToggleManager. One record per flag.</description>
+    <label>Feature Flag</label>
+    <pluralLabel>Feature Flags</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>
