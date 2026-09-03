@@ -39,6 +39,10 @@ force-app/
         └── classes/
             ├── DecoratorPattern/
             ├── FactoryPattern/
-            ├── SingletonPattern/
-            ├── StrategyPattern/
+            └── SingletonPattern/
+                ├── Example1/
+                └── Example2/
+            └── StrategyPattern/
+                ├── Example1/
+                └── Example2/
             └── UnitOfWorkPattern/
